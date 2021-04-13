@@ -6,6 +6,6 @@ This repo is a test for an introduction to git and github - April 13, QCIF
 
 - Suja.ramamoorthy 
 - bruenCAE 
-
+- svaberg (Dag Evensberget)
 
 Added by Suja
